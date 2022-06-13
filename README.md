@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-In highschool, (almost) expert at Docker, Debian family tree, learning Arch, VM, networking, Mandarin. Addicted to red meat and deadlifting 275. Discord: Kerta1n#5813
+In highschool, (almost) expert at Docker, Debian family tree, learning Arch, VM, networking, Mandarin. Addicted to red meat and deadlifting. Discord: Kerta1n#5813
 <!--
 **kerta1n/kerta1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
