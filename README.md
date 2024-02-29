@@ -5,6 +5,9 @@ In highschool, (almost) expert at Docker, Debian family tree, VM, networking, Ma
 
 I have good taste in music
 https://open.spotify.com/user/sroland70?si=a6abb90182864ff8
+
+Check out my club:
+https://eyesopen.club
 <!--
 **kerta1n/kerta1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
