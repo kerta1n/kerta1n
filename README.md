@@ -4,11 +4,13 @@
 In highschool, (almost) expert at Docker, Debian family tree, VM, networking, Mandarin. 
 <!-- SMMA is BS, doing WiFi Money. Addicted to steak, heavy circles on sticks, and holistic self improvement. Discord: kerta1n if you're a hot anime waifu -->
 
-I have good taste in music
-https://open.spotify.com/user/sroland70?si=a6abb90182864ff8
+
 
 
 <!--
+I have good taste in music
+https://open.spotify.com/user/sroland70?si=a6abb90182864ff8
+
 Check out my club:
 https://eyesopen.club 
 **kerta1n/kerta1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
