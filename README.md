@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-In highschool, (almost) expert at Docker, Debian family tree, VM, networking, Mandarin. 
+Docker, Mandarin, and printing cash
 <!-- SMMA is BS, doing WiFi Money. Addicted to steak, heavy circles on sticks, and holistic self improvement. Discord: kerta1n if you're a hot anime waifu -->
 
 
