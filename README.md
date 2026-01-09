@@ -1,18 +1,14 @@
 ### Hi there 👋
 
 
-Docker, Mandarin, and printing cash
-<!-- SMMA is BS, doing WiFi Money. Addicted to steak, heavy circles on sticks, and holistic self improvement. Discord: kerta1n if you're a hot anime waifu -->
+Currently ipping seed funding-approved SaaS with Claude coding
+<!-- SMMA is BS, doing WiFi Money. Addicted to ZR1s and ABGs, Discord: kerta1n -->
 
 
 
 
 <!--
-I have good taste in music
-https://open.spotify.com/user/sroland70?si=a6abb90182864ff8
 
-Check out my club:
-https://eyesopen.club 
 **kerta1n/kerta1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
