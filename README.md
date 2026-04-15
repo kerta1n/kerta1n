@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Currently ripping seed funding-approved SaaS with Claude coding
+Currently ripping seed funding-approved SaaS with Claude Code (but getting f'ed over by usage limits)
 <!-- SMMA is BS, doing WiFi Money. Addicted to ZR1s and ABGs, Discord: kerta1n -->
 
 
